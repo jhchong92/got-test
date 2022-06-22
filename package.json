@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jhchong92/got-test#readme",
   "dependencies": {
     "@types/got": "^9.6.9",
-    "got": "^10.7.0"
+    "got": "^11.8.5"
   }
 }
